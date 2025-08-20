@@ -1,0 +1,93 @@
+EEG Finding,Metric,Slope,P-value,Significant
+Absent reactivity,TPR,-0.018,0.0513,No
+Absent reactivity,FPR,-0.013,0.2431,No
+Absent reactivity,PPV,0.015,0.3745,No
+Absent reactivity,NPV,-0.019,0.2338,No
+Attenuation (10-20 uV),TPR,0.017,0.1655,No
+Attenuation (10-20 uV),FPR,-0.016,0.0438,Yes
+Attenuation (10-20 uV),PPV,0.049,0.0765,No
+Attenuation (10-20 uV),NPV,-0.002,0.8586,No
+BIPD,TPR,0.001,0.8652,No
+BIPD,FPR,0.001,0.7418,No
+BIPD,PPV,0.005,0.9251,No
+BIPD,NPV,-0.015,0.3258,No
+BIRDs,TPR,0.0,1.0,No
+BIRDs,FPR,0.001,0.7418,No
+BIRDs,PPV,-0.25,0.3333,No
+BIRDs,NPV,-0.015,0.3258,No
+Burst suppression,TPR,-0.063,0.0431,Yes
+Burst suppression,FPR,-0.043,0.1101,No
+Burst suppression,PPV,0.016,0.2372,No
+Burst suppression,NPV,-0.021,0.2818,No
+Burst suppression + HEB,TPR,-0.005,0.3258,No
+Burst suppression + HEB,FPR,-0.001,0.8652,No
+Burst suppression + HEB,PPV,0.007,0.6564,No
+Burst suppression + HEB,NPV,-0.017,0.265,No
+Burst suppression + IB,TPR,-0.007,0.0561,No
+Burst suppression + IB,FPR,0.001,0.7418,No
+Burst suppression + IB,PPV,-0.294,0.0372,Yes
+Burst suppression + IB,NPV,-0.016,0.2372,No
+Discontinuous,TPR,-0.036,0.2106,No
+Discontinuous,FPR,-0.026,0.1134,No
+Discontinuous,PPV,0.012,0.3675,No
+Discontinuous,NPV,-0.02,0.3675,No
+Extreme voltage suppression,TPR,-0.01,0.0,Yes
+Extreme voltage suppression,FPR,0.0,1.0,No
+Extreme voltage suppression,PPV,0.0,1.0,No
+Extreme voltage suppression,NPV,-0.015,0.3258,No
+GPD,TPR,0.051,0.0455,Yes
+GPD,FPR,0.031,0.2558,No
+GPD,PPV,0.02,0.3016,No
+GPD,NPV,-0.009,0.3862,No
+GRDA,TPR,0.004,0.6,No
+GRDA,FPR,0.056,0.0281,Yes
+GRDA,PPV,-0.022,0.0161,Yes
+GRDA,NPV,-0.025,0.102,No
+LPD,TPR,0.007,0.0561,No
+LPD,FPR,0.0,1.0,No
+LPD,PPV,0.056,0.1725,No
+LPD,NPV,-0.012,0.3492,No
+LRDA,TPR,0.001,0.7418,No
+LRDA,FPR,0.001,0.7418,No
+LRDA,PPV,0.085,0.843,No
+LRDA,NPV,-0.015,0.3258,No
+Myoclonic Status epilepticus,TPR,-0.01,0.2929,No
+Myoclonic Status epilepticus,FPR,-0.002,0.5528,No
+Myoclonic Status epilepticus,PPV,-0.002,0.9719,No
+Myoclonic Status epilepticus,NPV,-0.016,0.2372,No
+Reactivity,TPR,0.001,0.9374,No
+Reactivity,FPR,-0.019,0.5963,No
+Reactivity,PPV,0.035,0.0948,No
+Reactivity,NPV,-0.008,0.2697,No
+SED,TPR,0.033,0.0205,Yes
+SED,FPR,0.022,0.1563,No
+SED,PPV,0.046,0.2134,No
+SED,NPV,-0.011,0.3596,No
+SIRPDs,TPR,0.007,0.2818,No
+SIRPDs,FPR,0.005,0.622,No
+SIRPDs,PPV,0.028,0.2407,No
+SIRPDs,NPV,-0.015,0.2254,No
+Seizure,TPR,0.0,1.0,No
+Seizure,FPR,0.009,0.0766,No
+Seizure,PPV,-0.059,0.2656,No
+Seizure,NPV,-0.015,0.3258,No
+Status epilepticus,TPR,-0.002,0.6838,No
+Status epilepticus,FPR,0.0,1.0,No
+Status epilepticus,PPV,-0.039,0.6891,No
+Status epilepticus,NPV,-0.015,0.3258,No
+Suppression (<10 uV),TPR,-0.064,0.0564,No
+Suppression (<10 uV),FPR,-0.052,0.1474,No
+Suppression (<10 uV),PPV,0.022,0.0352,Yes
+Suppression (<10 uV),NPV,-0.051,0.0949,No
+alpha,TPR,-0.001,0.7418,No
+alpha,FPR,0.002,0.8174,No
+alpha,PPV,-0.007,0.8671,No
+alpha,NPV,-0.013,0.3619,No
+delta,TPR,0.052,0.0066,Yes
+delta,FPR,0.056,0.0281,Yes
+delta,PPV,0.03,0.1411,No
+delta,NPV,-0.019,0.0673,No
+theta,TPR,0.023,0.2781,No
+theta,FPR,0.013,0.7132,No
+theta,PPV,0.037,0.0431,Yes
+theta,NPV,-0.013,0.0173,Yes
